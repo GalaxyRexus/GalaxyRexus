@@ -69,12 +69,3 @@
   <img height="200" src="https://yt3.googleusercontent.com/R_rO4DebMumlEofTUcYY50Uug1RE_26wI1y05m7vghpgEg4_2vkTcyIzbtQ7RKPVQT-wEJN0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[Galaxy Rexus]/[Galaxy Rexus]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[Galaxy Rexus]/[Galaxy Rexus]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[Galaxy Rexus]/[Galaxy Rexus]/output/pacman-contribution-graph.svg">
-</picture>
-
-###
