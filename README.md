@@ -1,4 +1,6 @@
 <h2 align="left">Hi 👋! My name is Cendy and I'm a Web Dev, from Indonesia</h2>
+<h4>I Love Coding, The Code Who Doesn't Love Me<br>
+OwlSec Contributor Since 2022</h4>
 
 ###
 
