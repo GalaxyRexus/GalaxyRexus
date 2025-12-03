@@ -61,6 +61,6 @@ OwlSec Contributor Since 2022</h4>
 ###
 
 <div align="center">
-  <img height="200" src="Redshyft.jpeg"  />
+  <img height="200" src="RedShyft.jpeg"  />
 </div>
 
